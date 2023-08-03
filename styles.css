@@ -27,27 +27,27 @@ body {
 }
 
 .game-over {
-  background-color: orange;
+  background-color: red;
   opacity: 0.8;
 }
 
-.orange {
-  background-color: orange;
+.red {
+  background-color: red;
 }
 
-.pink {
-  background-color: pink;
+.green {
+  background-color: greeen;
 }
 
-.brown {
-  background-color: brown;
+.blue {
+  background-color: bule;
 }
 
-.pink{
-  background-color: pink;
+.yellow {
+  background-color: yellow;
 }
 
 .pressed {
-  box-shadow: 0 0 20px red;
-  background-color: pink;
+  box-shadow: 0 0 20px white;
+  background-color: grey;
 }
